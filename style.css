@@ -2252,7 +2252,7 @@ ul li a:hover {
 }
 
 
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 1200px) {
     * {
         margin: 0px;
         padding: 0px;
